@@ -35,3 +35,9 @@ var OMDbAPIKey = "YOUR KEY HERE";
 Next, you need to load the unpacked extension. In Chrome, visit `chrome://extensions/`. Click "Load unpacked" and choose the directory of the repository. It should now work.
 
 ![Extensions Help](https://i.imgur.com/slc6Yst.png)
+
+## Other
+
+Feel free to follow me on Letterboxd. :D
+
+[https://letterboxd.com/WilliamW/](https://letterboxd.com/WilliamW/)
