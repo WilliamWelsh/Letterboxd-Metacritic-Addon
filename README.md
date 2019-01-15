@@ -1,10 +1,10 @@
-# Letterboxd Rotten Tomatoes Addon
+# Letterboxd Metacritic Addon
 
 ## Overview
 
 This is a Chrome extension that adds two features to [Letterboxd](https://letterboxd.com). You can see the Metascore & color and a button added beside the IMDB and TMDB micro-buttons at the bottom that will link you to the film's Metacritic page.
 
-Prefer Rotten Tomatoes? I have a Chrome extension for that as well, view it [here](https://github.com/WilliamWelsh/Letterboxd-Rotten-Tomatoes-Addon).
+**Prefer Rotten Tomatoes? I have a Chrome extension for that as well, view it [here](https://github.com/WilliamWelsh/Letterboxd-Rotten-Tomatoes-Addon).**
 
 ## Preview
 
